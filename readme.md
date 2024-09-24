@@ -32,7 +32,7 @@
 
 # GCP
 
-![pic0](../gcp/gcp0.png)
+![pic0](gcp/gcp0.png)
 
 ![pic1](../gcp/gcp1.png)
 
