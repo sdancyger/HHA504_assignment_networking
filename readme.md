@@ -1,7 +1,7 @@
 # Assignment 504 #
 ## HHA 504 Assignment Networking 
 
-# Azure
+# Microsoft Azure
 ![pic0.0](azure/Azurepic0.0.png)
 
     Select "Create Virtual Network" 
@@ -50,7 +50,7 @@
 
 ![pic11](azure/Azurepic11.png)
 
-# GCP
+# Google Cloud Platform (GCP)
 
     Select "VPC networks" from "VPC Network" sidetab
 
