@@ -4,31 +4,31 @@
 # Azure
 ![pic0.0](azure/Azurepic0.0.png)
 
-![pic0](Azurepic0.png)
+![pic0](azure/Azurepic0.png)
 
-![pic1](Azurepic1.png)
+![pic1](azure/Azurepic1.png)
 
-![pic2](Azurepic2.png)
+![pic2](azure/Azurepic2.png)
 
-![pic2.2](Azurepic2.2.png)
+![pic2.2](azure/Azurepic2.2.png)
 
-![pic3](Azurepic3.png)
+![pic3](azure/Azurepic3.png)
 
-![pic4](Azurepic4.png)
+![pic4](azure/Azurepic4.png)
 
-![pic5](Azurepic5.png)
+![pic5](azure/Azurepic5.png)
 
-![pic6](Azurepic6.png)
+![pic6](azure/Azurepic6.png)
 
-![pic7](Azurepic7.png)
+![pic7](azure/Azurepic7.png)
 
-![pic8](Azurepic8.png)
+![pic8](azure/Azurepic8.png)
 
-![pic9](Azurepic9.png)
+![pic9](azure/Azurepic9.png)
 
-![pic10](Azurepic10.png)
+![pic10](azure/Azurepic10.png)
 
-![pic11](Azurepic11.png)
+![pic11](azure/Azurepic11.png)
 
 # GCP
 
